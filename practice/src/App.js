@@ -9,29 +9,26 @@ function App() {
         <div className="nav-links">
           <li><a href="#">HOME</a></li>
           <li>
-            <a href="#">HTML & CSS</a>
+            <a href="#">ALL</a>
             <ul className="htmlCss-sub-menu sub-menu">
-              <li><a href="#">Web Design</a></li>
-              <li><a href="#">Login Form</a></li>
-              <li><a href="#">Card Design</a></li>
-              <li><a href="#">More</a></li>
+              <li><a href="#">Korean</a></li>
+              <li><a href="#">HIPHOP</a></li>
+              <li><a href="#">ROCK</a></li>
+              <li><a href="#">JAZZ</a></li>
             </ul>
           </li>
           <li>
-            <a href="#">JAVASCRIPT</a>
+            <a href="#">COMUNITY</a>
             <ul className="js-sub-menu sub-menu">
-              <li><a href="#">Dynamic Calculator</a></li>
-              <li><a href="#">Form Validation</a></li>
-              <li><a href="#">Calendar</a></li>
-              <li><a href="#">Digital Clock</a></li>
+              <li><a href="#">POST</a></li>
+              <li><a href="#">FREE_TALK</a></li>
             </ul>
           </li>
           <li>
-            <a href="#">ABOUT US</a>
+            <a href="#">MYPAGE</a>
             <ul className="htmlCss-sub-menu sub-menu">
-              <li><a href="#">Web Design</a></li>
-              <li><a href="#">Login Form</a></li>
-              <li><a href="#">Card Design</a></li>
+              <li><a href="#">MYINFO</a></li>
+              <li><a href="#">LOGOUT</a></li>
               <li><a href="#">More</a></li>
             </ul>
           </li>
@@ -40,6 +37,7 @@ function App() {
      
     </div>
     </nav>
+
   );
 }
 

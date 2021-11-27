@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+/* ------------navbar------------------------ */
+
 nav {
   position: fixed;
   top: 0;
@@ -74,3 +76,5 @@ li:hover .htmlCss-sub-menu,
 li:hover .js-sub-menu {
   display: block;
 }
+
+/* ----------------------------------- */
